@@ -1,24 +1,36 @@
 <h1>Hi, I'm Aman! <br/><a href="https://github.com/Amanpiyush">Cybersecurity Student</a>, <a href="https://www.linkedin.com/in/amanpiyush/">Aspiring Cybersecurity Engineer</a>, <a href="#">Bug Hunter</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>Cybersecurity project's</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+   <b></b>
+   
+  Client-side encryption of data (Currently Working on it) 
+  <ul>
+    <li>The primary objective of the project is to encrypt client data before storing it in the cloud.</li>
+    <li>The system employs the Advanced Encryption Standard (AES) to encrypt files on the client side.</li>
+    <li>We are using Java, HTML, CSS, and JS to build the project.</li>
+  </ul>
 
-<h2>📺 Popular YouTube Videos</h2>
+   <br>
+   
+  <b><a href="https://github.com/Amanpiyush/AI_personal_Assistant">ALPHA</a> ( Personal Assisstant)</b>
+  <ul><li>Primary Goal to automate my task and make work easier</li>
+  <li>I'm using Python as programming lanaguage and selinum to automate the task.</li>
+  </ul>
+
+  <br>
+  
+- <b>Current working</b>
+  - CEHv12 Certification
+  - Google Cybersecurity professional Certification
+
+    <br>
+  
+- <b>Current Learning</b>
+  - Scripting Language [pythomn and Bash]
+  - Bug Bounty
+
+<h2>Looking to Collborate</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
@@ -28,18 +40,16 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+<br>
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[twitter]:https://twitter.com/Piyush_2708
+[linkedin]:https://www.linkedin.com/in/amanpiyush/
+
+<br>
 
 Here are some ideas to get you started:
 
