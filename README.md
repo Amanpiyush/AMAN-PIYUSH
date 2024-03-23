@@ -15,24 +15,24 @@
    
   <b><a href="https://github.com/Amanpiyush/AI_personal_Assistant">ALPHA</a> ( Personal Assisstant)</b>
   <ul><li>Primary Goal to automate my task and make work easier</li>
-  <li>I'm using Python as programming lanaguage and selinum to automate the task.</li>
+  <li>I'm using Python as a programming language and seleinum to automate the task.</li>
   </ul>
 
   <br>
   
 - <b>Current working</b>
   - CEHv12 Certification
-  - Google Cybersecurity professional Certification
+  - Google Cybersecurity Professional Certification
 
     <br>
   
 - <b>Current Learning</b>
-  - Scripting Language [pythomn and Bash]
+  - Scripting Language [python and Bash]
   - Bug Bounty
 
 <h2>Looking to Collborate</h2>
 
-- I'm interested in working together with organization. Let's discuss how I can contribute to your team.
+- I'm interested in working together with the organization. Let's discuss how I can contribute to your team.
 
   <ul>
      <li>Knowledge Enhancement</li>
@@ -50,7 +50,7 @@
 
 <br>
 
-[twitter]:https://twitter.com/Piyush_2708
+[Twitter]:https://twitter.com/Piyush_2708
 [linkedin]:https://www.linkedin.com/in/amanpiyush/
 
 <br>
