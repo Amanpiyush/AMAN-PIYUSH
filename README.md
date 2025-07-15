@@ -11,7 +11,7 @@ Aspiring Cybersecurity Engineer | Frontend Engineer
 - 🗂️ I love combining **Frontend Engineering** with **Security** — building clean UIs while understanding how to secure them.
 - 📫 How to reach me: [https://www.linkedin.com/in/amanpiyush/] | [https://x.com/Piyush_2708]
 
-## 🛠️ Languages
+## 🛠️ Languages & Tools
 
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
@@ -20,9 +20,6 @@ Aspiring Cybersecurity Engineer | Frontend Engineer
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
-
-## 🛠️ Security Tools
-
 <img align="left" alt="Wireshark" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Logo.png" width="40" height="40" />
 <img align="left" alt="Splunk" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Splunk_logo.svg" width="40" height="40" />
 <img align="left" alt="Nessus" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Tenable_Logo.png" width="40" height="40" />
