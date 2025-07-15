@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on My Personal Project "HUNMAX".
 - 🎯 My mission: Turn real-world problems into polished, secure products.
-- ⚡ Passionate about **Cybersecurity Engineer **, **Frontend Engineer**.
+- ⚡ Passionate about **Cybersecurity Engineer** , **Frontend Engineer**.
 - 🌱 I’m focusing on React, TypeScript &  I’m looking to collaborate.
 - 🗂️ I love combining **Frontend Engineering** with **Security** — building clean UIs while understanding how to secure them.
 - 📫 How to reach me:
