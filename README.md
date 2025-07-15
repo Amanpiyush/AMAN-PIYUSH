@@ -1,57 +1,43 @@
-<h1>Hi, I'm Aman! <br/><a href="https://github.com/Amanpiyush">Cybersecurity Student</a>, <a href="https://www.linkedin.com/in/amanpiyush/">Aspiring Cybersecurity Engineer</a>, <a href="#">Bug Hunter</a></h1>
+# Hola, 👋 Security Engineer, I'm Aman piyush
 
-<h2>Cybersecurity project's</h2>
+** Aspiring Cybersecurity Engineer | Frontend Engineer **
 
-   <b></b>
-   
-  Client-side encryption of data (Currently Working on it) 
-  <ul>
-    <li>The primary objective of the project is to encrypt client data before storing it in the cloud.</li>
-    <li>The system employs the Advanced Encryption Standard (AES) to encrypt files on the client side.</li>
-    <li>We are using Java, HTML, CSS, and JS to build the project.</li>
-  </ul>
+## 👨‍💻- 🚀  About Me
 
-   <br>
-   
-  <b><a href="https://github.com/Amanpiyush/AI_personal_Assistant">ALPHA</a> ( Personal Assisstant)</b>
-  <ul><li>Primary Goal to automate my task and make work easier</li>
-  <li>I'm using Python as a programming language and seleinum to automate the task.</li>
-  </ul>
+- 🔭 I’m currently working on My Personal Project "HUNMAX".
+- ⚡ Passionate about **Cybersecurity Engineer **, **Frontend Engineer**, **Web Security**.
+- 🌱 I’m focusing on React, TypeScript, and full-stack development.
+- 🗂️ I love combining **Frontend Engineering** with **Security** — building clean UIs while understanding how to secure them.
+- 👯 I’m looking to collaborate on **frontend projects** & open source.
+- 🔍 Tools I use: **Splunk**, **Nessus**, **Wireshark**, **Git**, various **Operating Systems**, and more.
+- 🐞 Passionate about **Bug Bounties** & **Web App Testing** — always hunting for vulnerabilities and ways to patch them.
+- 🎯 My mission: Turn real-world problems into polished, secure products.
+- 💬 Ask me about **frontend dev, React, and product building**.
+- 📫 How to reach me: [https://www.linkedin.com/in/amanpiyush/] | [https://x.com/Piyush_2708]
 
-  <br>
-  
-- <b>Current working</b>
-  - CEHv12 Certification
-  - Google Cybersecurity Professional Certification
+## 🛠️ Languages
 
-    <br>
-  
-- <b>Current Learning</b>
-  - Scripting Language [python and Bash]
-  - Bug Bounty
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)  --
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 
-<h2>Looking to Collborate</h2>
+## 🛠️ Security Tools
 
-- I'm interested in working together with the organization. Let's discuss how I can contribute to your team.
-
-  <ul>
-     <li>Knowledge Enhancement</li>
-     <li>Risk Assessment and Mitigation</li>
-     <li>Incident Response</li>
-     <li>Security Awareness</li>
-     <li>Security Tool Evaluation</li>
-  </ul>
-
-<h2> 🤳 Connect with me:</h2>
+![Splunk](https://img.shields.io/badge/-Splunk-333?style=flat&logo=splunk)
+![Wireshark](https://img.shields.io/badge/-Wireshark-333?style=flat&logo=wireshark)
+![Nessus](https://img.shields.io/badge/-Nessus-333?style=flat&logo=tenable)
 
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## 📈 GitHub Stats
 
-<br>
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanpiyush&show_icons=true&theme=radical)
 
-[Twitter]:https://twitter.com/Piyush_2708
-[linkedin]:https://www.linkedin.com/in/amanpiyush/
+## 🔗 Links
 
-<br>
-
+- 🔗 [LinkedIn](https://www.linkedin.com/in/amanpiyush/)
+- 🔗 [Portfolio](https://hacx-portfolio.vercel.app/resume.html)
+- 🔗 [Hunmax Project](https://hunmax.vercel.app/)
